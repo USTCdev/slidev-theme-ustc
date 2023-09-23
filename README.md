@@ -1,6 +1,6 @@
 # slidev-theme-ustc
 
-A (Slidev)[https://sli.dev] theme for the [University of Science and Technology of China](https://ustc.edu.cn).
+A [Slidev](https://sli.dev) theme for the [University of Science and Technology of China](https://ustc.edu.cn).
 
 > This theme is based on [@slidev/theme-seriph](https://github.com/slidevjs/themes/tree/main/packages/theme-seriph)
 
