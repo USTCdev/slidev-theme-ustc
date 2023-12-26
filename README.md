@@ -1,10 +1,12 @@
 # slidev-theme-ustc
 
-A [Slidev](https://sli.dev) theme for the [University of Science and Technology of China](https://ustc.edu.cn).
+一个科大专属的 [Slidev](https://sli.dev) 主题.
 
-> This theme is based on [@slidev/theme-seriph](https://github.com/slidevjs/themes/tree/main/packages/theme-seriph)
+> 基于 [@slidev/theme-seriph](https://github.com/slidevjs/themes/tree/main/packages/theme-seriph) 修改而来。
 
-## Install
+> [**本仓库还包含近40张科大风景图片**](https://github.com/USTCdev/slidev-theme-ustc/tree/master/assets/materials)
+
+## 安装
 
 Add the following frontmatter to your `slides.md`. Start Slidev then it will prompt you to install the theme automatically.
 
@@ -24,21 +26,17 @@ themeConfig:
 ---
 ```
 
-### Cover background
+### Cover Background
 
 ```yaml
 ---
 layout: cover
-background: 2  # this can be a number between 1 to 4, or an URL to an image or a color
+background: 2  # This can be a number between 1 to 4, or an URL to an image or a color
 ---
 
 # Cover Markdown content
 
 ```
-
-## Tips
-
-There are also some USTC photos in the `assets` folder, you can use them somewhere in the slides.
 
 ## License
 
